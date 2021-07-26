@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    overflow: hidden;
+    text-align: center;
+}
+.first_div{
+    width: 25%;
+    height: 500px;
+    background-color: brown;
+    float: left;
+    overflow: hidden;
+}
+
+.second_div{
+    width: 75%;
+    height: 500px;
+    background-color: chocolate;
+    float: left;
+    overflow: hidden;
+}
+.box-1{
+    height: 40%;
+    background-color: crimson;
+    float: top;
+}
+.box-2{
+    height: 60%;
+    background-color: rgb(140, 20, 220);
+    float: bottom;
+}
+.box-3{
+    width: 75%;
+    height: 100px;
+    background-color: darkslateblue;
+    float: left;
+    margin-top: 362px;
+}
+.box-4{
+    width: 25%;
+    height: 100px;
+    background-color: rgb(64, 139, 61);
+    float: left;
+    margin-top: 362px;
+}
